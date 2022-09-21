@@ -125,7 +125,7 @@ input#busca:hover {
     flex-grow: 1;
 }
 footer {
-    position: fixed;
+    position: static;
     bottom: 0;
     width: 100%;
     background-color: #e2e2e2;
